@@ -12,4 +12,6 @@
 
 ![bowl_coffe](render_coffe_2.png)
 
+![becker_erlenmeyer](render_becker_erlenmeyer.png)
+
 ![knife_1](render_4.png)
