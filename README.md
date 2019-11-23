@@ -15,3 +15,5 @@
 ![becker_erlenmeyer](render_becker_erlenmeyer.png)
 
 ![knife_1](render_4.png)
+
+![knife_2](render_knife_1.png)
